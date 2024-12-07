@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Software Engineer
+
+Experienced software engineer with over 5 years of expertise in system development, project management, and technology integration. Passionate about creating efficient, scalable, and maintainable solutions for complex challenges.
+
+## Career Experience
+
+- **Led Large-Scale Projects**  
+  Successfully managed projects, ensuring milestones were achieved while fostering collaboration between technical and non-technical teams.
+
+- **Government and Enterprise Systems Development**  
+  Contributed to the development of:
+  - Government systems.
+  - AI-driven resume automation tools.
+  - Management systems for clinics and events.
+
+- **Legacy System Modernization**  
+  Enhanced performance, scalability, and maintainability of existing systems by modernizing legacy codebases.
+
+- **Mobile Application and Data Systems Development**  
+  Oversaw the design and development of mobile applications and data management systems, including handling international assignments.
+
+- **Technical Training**  
+  Provided web and mobile application development training to university students.
+
+## Key Skills
+
+- **System Development**  
+  Expertise in building large-scale systems with a focus on performance and maintainability.
+
+- **Optimization and Design**  
+  Proficient in system optimization and database design.
+
+- **Leadership and Communication**  
+  Strong skills in technical leadership and facilitating effective team communication.
+
+- **AI and Automation**  
+  Skilled in integrating automation and AI technologies into systems and workflows.
