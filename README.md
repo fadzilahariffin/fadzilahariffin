@@ -56,3 +56,10 @@ Experienced software engineer with over 5 years of expertise in system developme
 
 - **AI and Automation**  
   Skilled in integrating automation and AI technologies into systems and workflows.
+
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=fadzilahariffin&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%"/>
+
+
+
