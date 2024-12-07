@@ -21,6 +21,9 @@ Experienced software engineer with over 5 years of expertise in system developme
 
 ## Career Experience
 
+![My Profile Banner] (https://raw.githubusercontent.com/fadzilahariffin/fadzilahariffin/refs/heads/main/expertise-overview.png)
+
+
 - **Led Large-Scale Projects**  
   Successfully managed projects, ensuring milestones were achieved while fostering collaboration between technical and non-technical teams.
 
