@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 -->
 
-hhghvgvhvhvgh
-
 # Software Engineer
 
 Experienced software engineer with over 5 years of expertise in system development, project management, and technology integration. Passionate about creating efficient, scalable, and maintainable solutions for complex challenges.
